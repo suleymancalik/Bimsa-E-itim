@@ -1,2 +1,2 @@
-# Bimsa-E-itim
+# Bimsa-Eğitim
 Tech Talks Swift Sessions Codes
